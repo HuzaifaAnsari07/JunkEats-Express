@@ -1,5 +1,3 @@
-# JunkEats-Express
-
 # 🍔 JunkEats Express 🚀
 
 Welcome to **JunkEats Express** — your go-to online fast food ordering website! Craving cheesy burgers, crispy fries, and delicious combos? This platform makes it fast, fun, and easy to get your favorite junk food delivered right to your door. 🍟🍕🥤
