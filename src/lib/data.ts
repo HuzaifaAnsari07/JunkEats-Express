@@ -18,7 +18,7 @@ export const products: Product[] = [
     description: 'A crowd-pleaser with rich tomato sauce, mozzarella, and a generous layer of pepperoni.',
     price: 12.99,
     category: 'Pizza',
-    image: '/ClassicPepperoni.png',
+    image: '/Classic Pepperoni.png',
     rating: 4.8,
     bestseller: true,
   },
@@ -92,7 +92,7 @@ export const products: Product[] = [
     description: 'Simple yet delicious, with fresh basil, mozzarella, and our signature tomato sauce.',
     price: 10.99,
     category: 'Pizza',
-    image: '/margherita.jpg',
+    image: '/Margherita.jpg',
     rating: 4.1,
   },
   {
